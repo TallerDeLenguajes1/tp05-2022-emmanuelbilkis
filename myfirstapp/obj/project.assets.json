@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\tallerteoriastp\\Taller\\tp5\\tp05-2022-emmanuelbilkis\\proyecto\\myfirstapp\\myfirstapp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\tallerteoriastp\\Taller\\tp5\\tp05-2022-emmanuelbilkis\\myfirstapp\\myfirstapp.csproj",
       "projectName": "myfirstapp",
-      "projectPath": "C:\\Users\\user\\Desktop\\tallerteoriastp\\Taller\\tp5\\tp05-2022-emmanuelbilkis\\proyecto\\myfirstapp\\myfirstapp.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\tallerteoriastp\\Taller\\tp5\\tp05-2022-emmanuelbilkis\\myfirstapp\\myfirstapp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\tallerteoriastp\\Taller\\tp5\\tp05-2022-emmanuelbilkis\\proyecto\\myfirstapp\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\tallerteoriastp\\Taller\\tp5\\tp05-2022-emmanuelbilkis\\myfirstapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
