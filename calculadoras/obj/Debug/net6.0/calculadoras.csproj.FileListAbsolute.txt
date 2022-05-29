@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\bin\Debug\net6.0\calculadoras.exe
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\bin\Debug\net6.0\calculadoras.deps.json
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\bin\Debug\net6.0\calculadoras.runtimeconfig.json
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\bin\Debug\net6.0\calculadoras.dll
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\bin\Debug\net6.0\calculadoras.pdb
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\obj\Debug\net6.0\calculadoras.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\obj\Debug\net6.0\calculadoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\obj\Debug\net6.0\calculadoras.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\obj\Debug\net6.0\calculadoras.AssemblyInfo.cs
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\obj\Debug\net6.0\calculadoras.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\obj\Debug\net6.0\calculadoras.dll
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\obj\Debug\net6.0\refint\calculadoras.dll
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\obj\Debug\net6.0\calculadoras.pdb
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\obj\Debug\net6.0\calculadoras.genruntimeconfig.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp5\tp05-2022-emmanuelbilkis\calculadoras\obj\Debug\net6.0\ref\calculadoras.dll
