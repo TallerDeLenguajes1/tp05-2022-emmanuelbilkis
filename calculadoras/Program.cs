@@ -25,16 +25,17 @@ namespace calculadora
                     case 4: resultado = num1 / num2;
                         break;
                 }
+            Console.WriteLine("El resultado de la operacion es: " + resultado);
             Console.WriteLine("*************Resolucion de la segunda parte**************");
             Console.WriteLine("Ingrese un numero");
             double x = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("El numero ingresado es: " + x);
-            Console.WriteLine("Valor absoluto" + Math.Abs(x));
-            Console.WriteLine("Cuadrado:" + Math.Pow(x,2));
-            Console.WriteLine("Raiz cuadrada" + Math.Sqrt(x));
-            Console.WriteLine("seno" + Math.Sin(x));
-            Console.WriteLine("coseno" + Math.Cos(x));
-            Console.WriteLine("Parte entera:" + Math.Ceiling(x));
+            Console.WriteLine("Valor absoluto: " + Math.Abs(x));
+            Console.WriteLine("Cuadrado: " + Math.Pow(x,2));
+            Console.WriteLine("Raiz cuadrada: " + Math.Sqrt(x));
+            Console.WriteLine("seno: " + Math.Sin(x));
+            Console.WriteLine("coseno: " + Math.Cos(x));
+            Console.WriteLine("Parte entera: " + Math.Ceiling(x));
 
             Console.WriteLine("insgrese un numero");
             double y = Convert.ToDouble(Console.ReadLine());
